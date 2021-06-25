@@ -1,0 +1,1 @@
+Nesneleri ilk önce Map yapısında ardından da JSON yapısına kaydettik.
